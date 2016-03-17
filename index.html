@@ -26,7 +26,7 @@
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="#">JUEGOS MOVIL</a></li>
-						<li><a href="#">JUEGOS TABLET</a></li>
+						<li><a href="#">2016</a></li>
 					</ul>
 					<form class="navbar-form navbar-left" role="search">
 						<div class="form-group">
